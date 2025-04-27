@@ -1,12 +1,6 @@
-# login_screen
-
-A new Flutter project.
-# login_screen
-
-A new Flutter project.
-
 ## Flutter Login and Today’s Work Manager App
 
+A new Flutter project.
 ## Description:
 I have developed a mobile application using Flutter that focuses on user authentication, profile management, and daily task tracking.
 
